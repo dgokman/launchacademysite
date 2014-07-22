@@ -1,0 +1,38 @@
+#wrapper {
+  background-color: silver;
+  text-align: left;
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+  font-family: calibri;
+  color: black;
+  border-style: dotted;
+  border-color: gray;
+  padding: 1em;
+}
+
+body {
+  background-color: lightgray;
+}
+
+a:link {
+    color: blue;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 90%;
+}
+a:visited {
+    color: purple;
+}
+a:hover {
+    color: peru;
+    text-decoration: underline;
+    }
+a:active {
+    color: peru;
+    }
+    
+img {
+  max-width: 320px;
+  max-height: 240px;
+}
